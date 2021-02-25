@@ -11,5 +11,5 @@ My goal is to find a career in Video Game Development, because I love to be crea
 - I'm looking into voice acting
 - :crown: Rythm game master
 - I have an obsession with music boxes
-- :movie-camera: Anime (Attack on Titan is my #1)
-- :gmae-die: RPG lover
+- :movie_camera: Anime (Attack on Titan is my #1)
+- :gmae_die: RPG lover
