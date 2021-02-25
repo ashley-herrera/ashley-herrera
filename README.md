@@ -9,7 +9,7 @@ My goal is to find a career in Video Game Development, because I love to be crea
 ## ⚡ About me
 - I do digital art and painting on the side
 - I'm looking into voice acting
-- Rythm game master
+- :crown: Rythm game master
 - I have an obsession with music boxes
-- Anime (Attack on Titan is my #1)
-- RPG lover
+- :movie-camera: Anime (Attack on Titan is my #1)
+- :gmae-die: RPG lover
