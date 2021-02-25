@@ -7,9 +7,9 @@ My goal is to find a career in Video Game Development, because I love to be crea
 ## 📫 How to reach me
 - ashleyherrera131@gmail.com
 ## ⚡ About me
-- I do digital art and painting on the side
-- I'm looking into voice acting
+- :art: I do digital art and painting on the side
+- :mega: I'm looking into voice acting
 - :crown: Rythm game master
-- I have an obsession with music boxes
+- :musical_score:I have an obsession with music boxes
 - :movie_camera: Anime (Attack on Titan is my #1)
-- :gmae_die: RPG lover
+- :game_die: RPG lover
