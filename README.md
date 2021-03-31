@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ashley Herrera and I am a Fullstack Developer. I love solving puzzles and finding out why things do the things they do.
+My name is Ashley Herrera and I am a novice Fullstack Developer. I love solving puzzles and finding out why things do the things they do.
 My goal is to find a career in Video Game Development, because I love to be creative and I like to work on projects constantly. 
 
 ## 📫 How to reach me
